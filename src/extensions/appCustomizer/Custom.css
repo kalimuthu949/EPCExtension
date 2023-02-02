@@ -1,0 +1,91 @@
+[aria-label="SharePoint Site Header"] {
+  background-color: #006643 !important;
+}
+
+[data-automationid="SiteHeaderTitle"] > a {
+  color: #fff;
+}
+
+[data-automationid="SiteHeaderTitle"] > a:hover {
+  color: #fff;
+}
+
+[data-automationid="HorizontalNav-link"] > a {
+  color: #fff;
+}
+
+[data-automationid="HorizontalNav-link"] > a:hover {
+  color: #fff;
+}
+
+[data-automationid="HorizontalNav-edit"] > button {
+  color: #fff;
+  padding: 0 0 6px 0;
+}
+
+[data-automationid="HorizontalNav-edit"] > button:hover {
+  color: #fff;
+}
+
+[data-automationid="SiteHeaderFollowButton"] > span > i {
+  color: #fff;
+}
+
+[data-automationid="SiteHeaderFollowButton"] > span > i:hover {
+  color: #fff !important;
+}
+
+[data-automationid="SiteHeaderFollowButton"] > span > span {
+  color: #fff;
+}
+
+/* [data-automationid="SiteHeader"] > div > a {
+  display: none !important;
+} */
+
+/* [data-automationid="ShyHeader"] > div > a {
+  display: none !important;
+} */
+
+[data-automationid="ShareSiteButton"] > span > i {
+  color: #fff;
+}
+
+[data-automationid="ShareSiteButton"] > span > i:hover {
+  color: #fff !important;
+}
+
+[data-automationid="ShareSiteButton"] > span > span > span {
+  color: #fff;
+  margin: 3px 0px;
+}
+
+.spanContent {
+  color: #7dc242;
+}
+
+.ms-HorizontalNavItem-link.is-selected {
+  border-bottom: 2px solid #fff !important;
+}
+
+.ms-CompositeHeader-collapsible:hover i {
+  color: #fff !important;
+}
+
+[data-automationid="SiteHeader"] > div > a > img {
+  max-height: 72px !important;
+  max-width: 166px !important;
+  margin-right: 10px !important;
+}
+
+[data-automationid="ShyHeader"] > div > a > img {
+  max-height: 52px !important;
+  max-width: 100px !important;
+  margin-right: 10px !important;
+}
+
+.clsFooterRef
+{
+  text-decoration: none;
+  color: inherit;
+}

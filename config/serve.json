@@ -1,0 +1,31 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/core-build/serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "serveConfigurations": {
+    "default": {
+      "pageUrl": "https://flyfrontier.sharepoint.com/sites/Intranet",
+      "customActions": {
+        "221ffac7-4fe6-477a-ab94-9fe780ba2395": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": {
+            "Top": "Top area of the page",
+            "Bottom": "Bottom area of the page"
+          }
+        }
+      }
+    },
+    "appCustomizer": {
+      "pageUrl": "https://flyfrontier.sharepoint.com/sites/Intranet",
+      "customActions": {
+        "221ffac7-4fe6-477a-ab94-9fe780ba2395": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": {
+            "Top": "Top area of the page",
+            "Bottom": "Bottom area of the page"
+          }
+        }
+      }
+    }
+  }
+}
