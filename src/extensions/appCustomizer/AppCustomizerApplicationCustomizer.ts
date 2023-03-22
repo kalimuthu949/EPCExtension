@@ -77,7 +77,7 @@ export default class AppCustomizerApplicationCustomizer extends BaseApplicationC
               this._bottomPlaceholder.domElement.innerHTML = `
                 <div class="${styles.app}">
                     <div class="${styles.bottom}">
-                      <a class="clsFooterRef" target="_blank" href="https://www.google.com/">AMERICA'S &nbsp; <span class="spanContent">GREENEST</span> &nbsp; AIRLINE</a>
+                      <a class="clsFooterRef" target="_blank" href="https://www.flyfrontier.com/green/">AMERICA'S &nbsp; <span class="spanContent">GREENEST</span> &nbsp; AIRLINE</a>
                     </div>
                 </div>`;
             }
