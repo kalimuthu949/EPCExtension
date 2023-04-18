@@ -89,3 +89,14 @@
   text-decoration: none;
   color: inherit;
 }
+
+
+ [aria-label="SharePoint Site Header"] .ms-HorizontalNav .ms-HorizontalNavItem span ,[aria-label="SharePoint Site Header"] .ms-HorizontalNav .ms-HorizontalNavItem i {
+  color: #fff !important;
+  }
+  
+  
+  [data-automationid="SiteHeader"] [data-automationid="ShareSiteButton"] {
+  color:#fff !important;
+  
+  }
